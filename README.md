@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:I live in a town called Sandwich!
 --> 
+- 🔭 I’m currently working on learning how to code
+- 🌱 I’m currently learning racket bsl
+- 👯 I’m looking to collaborate on fun projects!
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: peak.a@northeastern.edu
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I have 5 siblings
+-->
+
